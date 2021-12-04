@@ -1,7 +1,15 @@
 .App {
   text-align: center;
 }
-
+.react-container{
+  background-color: blue;
+}
+.shuvo{
+  background-color: cadetblue;
+  border-radius: 20px;
+  border: 2px peru solid;
+  margin: 10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
